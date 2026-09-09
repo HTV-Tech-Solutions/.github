@@ -19,7 +19,7 @@ Founded by **Tasunungurwa Hellington Vunganayi**, HTV Tech Solutions builds inte
 
 [![Email](https://img.shields.io/badge/-htvtechsolutions%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:htvtechsolutions@gmail.com)
 [![GitHub](https://img.shields.io/badge/-HTV--Tech--Solutions-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/htv-tech-solutions)
-[![LinkedIn](https://img.shields.io/badge/-HTV--Tech--Solutions-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/htv-tech-solutions)
+[![LinkedIn](https://img.shields.io/badge/-HTV--Tech--Solutions-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/htv-tech-solutions)
 
 </div>
 
@@ -105,6 +105,6 @@ We partner with businesses that want to move fast without cutting corners on sec
 
 *Secure. Smart. Scalable. Let's build the future together.*
 
-**[htvtechsolutions@gmail.com](mailto:htvtechsolutions@gmail.com)** · **[github.com/htv-tech-solutions](https://github.com/htv-tech-solutions)** · **[LinkedIn](https://www.linkedin.com/in/htv-tech-solutions)**
+**[htvtechsolutions@gmail.com](mailto:htvtechsolutions@gmail.com)** · **[github.com/htv-tech-solutions](https://github.com/htv-tech-solutions)** · **[LinkedIn](https://www.linkedin.com/company/htv-tech-solutions)**
 
 </div>
